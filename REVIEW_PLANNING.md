@@ -71,9 +71,6 @@ def calculate_sum(a, b):
 3. **Роли:**  
    - Добавлен QA-инженер для этапа верификации.  
 
-**Скриншот комментариев:**  
-![GitHub Review Comments](https://example.com/screenshot.png) *(пример ссылки)*  
-
 ---
 
 ## **Выводы**  
